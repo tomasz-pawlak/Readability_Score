@@ -11,4 +11,4 @@ An application design that evaluates the difficulty level of a specific complex 
 - Command line
 
 ## Illustrations
-![](screenshots/score.png)
+![](screenshot/score.png)
